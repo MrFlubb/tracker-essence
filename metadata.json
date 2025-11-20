@@ -1,0 +1,5 @@
+{
+  "name": "FuelTrack Pro",
+  "description": "Application de suivi de consommation d'essence avec visualisation graphique et synchronisation cloud.",
+  "requestFramePermissions": []
+}
